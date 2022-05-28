@@ -6,7 +6,7 @@
 - Juan Esteban Lugo
 - Pablo Andrés Triana
 
-## Getting Started
+## Para empezar
 
 1. Descarga el repositorio.
 2. (Opcional) Si deseas, puedes cambiar el nombre del proyecto desde el "package.json".
