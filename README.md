@@ -1,14 +1,16 @@
-Andres Camilo plaza
-Juan Esteban Lugo
-Pablo Andrés triana
+# PROYECTO DE SISTEMAS OPERATIVOS
 
-This is a [Next.js](https://nextjs.org/), [MUI v5](https://mui.com/) and [Typescript](https://github.com/microsoft/TypeScript) starter. You can use this to start your Next.js + MUI + Typescript development faster and easier.
+## Integrantes:
+
+-Andres Camilo laza
+-Juan Esteban Lugo
+-Pablo Andrés Triana
 
 ## Getting Started
 
-1. First download files.
-2. (Optional) If you want, You can also change the project name to whatever your like and also add the project name in "package.json".
-3. Run this command in the project directory to install dependencies:
+1. Descarga el repositorio.
+2. (Opcional) Si deseas, puedes cambiar el nombre del proyecto desde el "package.json".
+3. Antes de correr el rpoyecto debes de instalar algunas depencias:
 
 ```bash
 npm i
@@ -16,7 +18,7 @@ npm i
 yarn
 ```
 
-4. You can run dev server with the following command:
+4. Corre el servidor con el siguiente comando:
 
 ```bash
 npm run dev
@@ -24,4 +26,4 @@ npm run dev
 yarn dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. Abre [http://localhost:3000](http://localhost:3000) con tu navegador y observa el resultado.
