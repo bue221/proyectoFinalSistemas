@@ -2,9 +2,9 @@
 
 ## Integrantes:
 
--Andres Camilo laza
--Juan Esteban Lugo
--Pablo Andrés Triana
+- Andres Camilo Plaza
+- Juan Esteban Lugo
+- Pablo Andrés Triana
 
 ## Getting Started
 
